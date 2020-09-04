@@ -6,6 +6,12 @@ A [perceptron](https://en.wikipedia.org/wiki/Perceptron) written in COBOL.
 
 I've been reading a lot about companies seeking COBOL programmers, so I decided to give it a shot and wrote a perceptron to clissify the [Iris dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data).
 
+## How to install Cobol
+
+```bash
+sudo apt install open-cobol
+```
+
 ## How to compile
 
 ```bash

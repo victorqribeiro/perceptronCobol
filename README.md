@@ -4,7 +4,7 @@ A [perceptron](https://en.wikipedia.org/wiki/Perceptron) written in COBOL.
 
 ## About
 
-I've been reading a lot about companies seeking COBOL programmers, so I decided to give it a shot and wrote a perceptron to clissify the [Iris dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data).
+I've been reading a lot about companies seeking COBOL programmers, so I decided to give it a shot and wrote a perceptron to classify the [Iris dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data).
 
 ## How to install Cobol
 

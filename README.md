@@ -35,3 +35,6 @@ The first 4 colums are features that describe a flower.
 The 5th colum is the flower's label.  
 0 = Iris-setosa  
 1 = Iris-versicolor  
+
+------
+[![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=76N3LUCQ9FENS&currency_code=USD&source=url)

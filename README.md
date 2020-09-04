@@ -1,6 +1,6 @@
 # Perceptron in COBOL
 
-A perceptron written in COBOL.
+A [perceptron](https://en.wikipedia.org/wiki/Perceptron) written in COBOL.
 
 ## About
 

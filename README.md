@@ -21,7 +21,8 @@ Run the program
 ```
 
 Then enter 4 values.  
-I recomend using one from DATA.DAT for testing purposes.
+You can use 5.8 2.5 5.2 1.4 for testing purpose. The result should be one (Iris-versicolor).
+
 
 On DATA.DAT there's a 5 colum by 100 rows table.  
 The first 4 colums are features that describe a flower.  

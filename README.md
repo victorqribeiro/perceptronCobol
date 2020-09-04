@@ -26,7 +26,7 @@ Run the program
 ./perceptron
 ```
 
-Then enter 4 values.  
+Then enter 4 values (one at at time).  
 You can use 5.8 2.5 5.2 1.4 for testing purpose. The result should be one (Iris-versicolor).
 
 
